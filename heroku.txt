@@ -1,0 +1,2 @@
+Application is deployed  on "https://app-games-overlord.herokuapp.com/";
+For run a JSON Server you need to input the command "json-server --watch db.json";
